@@ -20,4 +20,6 @@ CALL AddProduct('Laptop', 50, 60000.00);
 CALL UpdateStock(1, 20);
 CALL ProcessSale(1, 10, @status);
 SELECT @status;
+
+
 <img width="194" height="65" alt="image" src="https://github.com/user-attachments/assets/52b0a01a-59d3-4ed0-ab19-f9ccb8241e79" />
